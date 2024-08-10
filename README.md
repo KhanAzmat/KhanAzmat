@@ -1,4 +1,3 @@
-![banner](https://github.com/user-attachments/assets/0114c683-feb3-4525-ba47-c26a66689883)
 
 
 # 💫 About Me:
