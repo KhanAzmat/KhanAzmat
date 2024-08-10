@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/74af22c9-7581-4e6e-86ce-8811030d9b9e" width="850" />
+<img src="https://github.com/user-attachments/assets/2eee877a-486f-4e19-b912-979987ceab9b" width="850" />
 
 # 💫 About Me:
 🔭 I’m a full-stack developer and have experience building real-time standalone web-applications. I'm currently working to solve localisation and  mapping in the indoor environment. I am also part of a team working to leverage the advances in LLM to simplify the chip designing process.<br>🌱 I’m currently a Masters student at National Yang Ming Chiao Tung University, Taiwan
