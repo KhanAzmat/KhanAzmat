@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/2fb14e31-4786-488b-99b2-684f925cb7f9" width="850" />
 
-# <img src="[https://github.com/user-attachments/assets/2fb14e31-4786-488b-99b2-684f925cb7f9](https://github.com/user-attachments/assets/6f3036b2-e84c-4798-b9dc-11cdd8dbe67f)" width="50" height="50" /> About Me:
+<img src="[https://github.com/user-attachments/assets/2fb14e31-4786-488b-99b2-684f925cb7f9](https://github.com/user-attachments/assets/6f3036b2-e84c-4798-b9dc-11cdd8dbe67f)" width="50" height="50" /> About Me:
 
 🔭 I’m a full-stack developer and have experience building real-time standalone web-applications. I'm currently working to solve localisation and  mapping in the indoor environment. I am also part of a team working to leverage the advances in LLM to simplify the chip designing process.<br>🌱 I’m currently a Masters student at National Yang Ming Chiao Tung University, Taiwan
 
