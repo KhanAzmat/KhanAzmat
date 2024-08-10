@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanAzmat&theme=moltack&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azmatullah-khan-softwaredeveloper) &nbsp;&nbsp;[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khann.azmat@gmail.com)</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azmatullah-khan-softwaredeveloper) &nbsp;&nbsp;[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khann.azmat@gmail.com)
 ---
 
 <p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azmatullah-khan-softwaredeveloper) &nbsp;&nbsp;[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khann.azmat@gmail.com)</p>
