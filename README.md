@@ -8,7 +8,7 @@
 - Currently a Masters student at National Yang Ming Chiao Tung University, Taiwan
 
 
-## <p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azmatullah-khan-softwaredeveloper) &nbsp;&nbsp;[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khann.azmat@gmail.com)</p>
+## 
 
 
 # 💻 Technologies and Tools:
@@ -18,6 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanAzmat&theme=moltack&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KhanAzmat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/azmatullah-khan-softwaredeveloper) &nbsp;&nbsp;[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khann.azmat@gmail.com)</p>
